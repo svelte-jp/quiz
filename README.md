@@ -6,7 +6,7 @@ Svelte日本Discordで定期的に投稿しているSvelteクイズに投稿す�
 
 ## クイズが投稿されるまでの流れ
 
-### 01. 任意の投稿日のクイズのISSUEを立ててもらう
+### 01. クイズのIssueを立ててもらう
 
 - Issueのフォーマットは下記を参考にしてください
   - https://github.com/svelte-jp/quiz/issues/1
